@@ -13,20 +13,20 @@ Analyze data to extract actionable insights that could guide business decisions,
 ### Problems Solved
 This project addresses several common challenges in database management and data analysis:
 
-Data Organization: Structuring disparate data into a coherent database schema that supports efficient data retrieval.
-Data Integrity: Ensuring accuracy and consistency of data through foreign key constraints and appropriate data types.
-Business Analytics: Providing comprehensive analyses that help in understanding customer purchasing patterns and product performance.
+- **Data Organization:** Structuring disparate data into a coherent database schema that supports efficient data retrieval.
+- **Data Integrity:** Ensuring accuracy and consistency of data through foreign key constraints and appropriate data types.
+- **Business Analytics:** Providing comprehensive analyses that help in understanding customer purchasing patterns and product performance.
 
 ### Approach
 The approach taken to build and utilize this database includes:
 
-Schema Design: Defining tables and relationships that logically organize information about customers, products, and their transactions.
-Data Insertion: Populating the database with sample data that simulates real-world business activities.
-Query Implementation: Crafting SQL queries that not only retrieve data but also perform analytical computations to gather insights.
+- **Schema Design:** Defining tables and relationships that logically organize information about customers, products, and their transactions.
+- **Data Insertion:** Populating the database with sample data that simulates real-world business activities.
+- **Query Implementation:** Crafting SQL queries that not only retrieve data but also perform analytical computations to gather insights.
 
 ### Results
 The queries executed in this project deliver various insights:
 
-Sales Analysis: Identified the total sales per product and the most popular products.
-Customer Analysis: Calculated average order quantities per customer and ranked customers based on order frequency, highlighting the most engaged customers.
-Operational Insights: Detected orders that might have issues, such as missing product information, helping in identifying potential data integrity problems.
+- **Sales Analysis:** Identified the total sales per product and the most popular products.
+- **Customer Analysis:** Calculated average order quantities per customer and ranked customers based on order frequency, highlighting the most engaged customers.
+- **Operational Insights:** Detected orders that might have issues, such as missing product information, helping in identifying potential data integrity problems.
